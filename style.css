@@ -1,0 +1,45 @@
+.full-wrapper{
+width :100%;
+height: auto;
+clear: both;
+}
+
+.wrapper{
+    width: 1100px;
+    margin: 0 auto;
+    
+}
+.logo img{
+    width:140px;
+    padding: 10px 0;
+     float: left; 
+}
+.menu
+{
+    float:left;
+    width: 960px;
+    text-align: right;
+    text-decoration: none;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+.menu a{
+    color:black;
+    padding: 10px;
+    font-size: 24px;
+}
+.banner-img{
+    min-height: 100%;
+    background-image: url(background_era.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    padding: 200px 0;
+}
+.banner-text{
+    text-align: center;
+    color: white;
+}
+
